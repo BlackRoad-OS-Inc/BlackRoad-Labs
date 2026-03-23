@@ -1,5 +1,13 @@
 # BlackRoad-Labs
 
+> BlackRoad Labs — R&D, experiments, prototypes, bleeding-edge tech. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# BlackRoad-Labs
+
 BlackRoad Labs — R&D, experiments, prototypes, bleeding-edge tech. Proprietary BlackRoad OS, Inc.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
